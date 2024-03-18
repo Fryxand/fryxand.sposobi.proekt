@@ -1,0 +1,1 @@
+# fryxand.sposobi.proekt

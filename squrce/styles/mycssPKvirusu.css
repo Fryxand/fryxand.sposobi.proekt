@@ -1,0 +1,71 @@
+body {
+    background: linear-gradient(90deg, #0008ff 0%, #000000 100%);
+}
+
+.nav-link {
+    color: aquamarine;
+}
+
+.navbar-nav .nav-link.active {
+    color: aquamarine;
+}
+
+.navbar-brand {
+    color: aquamarine;
+}
+.navbar-toggler {
+    background-color: gray;
+}
+
+footer {
+    background: linear-gradient(270deg, #0008ff 0%, #000000 100%);
+
+}
+
+.footer-text {
+    color: aquamarine;
+}
+
+.media-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user {
+    display: inline;
+    font-size: 24px;
+    color: aquamarine;
+    
+}
+
+.content {
+    text-align: center;
+    
+}
+
+.mouse {
+    display: inline;
+    font-size: 24px;
+    color: aquamarine;
+    
+    
+}
+
+.port {
+    text-align: center;
+    color: aquamarine;
+}
+
+.zet{
+    color: aquamarine;
+    font-size: 24px;
+
+}
+
+.virah {
+    float: right;
+}
+p {
+    text-align: justify;
+}
